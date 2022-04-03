@@ -19,6 +19,8 @@ I am seeker of new challenges, questions and problems to be solved, and tools to
 
 Now I want to expand my skills by systematic learning of currently trending technologies in order to become more valuable specialist and to be able to create more good stuff.
 
+******* 
+
 ### Current skills:
 
  - HTML5, CSS3
@@ -28,6 +30,15 @@ Now I want to expand my skills by systematic learning of currently trending tech
  - Powershell (Intermediate)
  - Linux (Intermediate)
  - Escaping from Vim (Master)
+
+### Example of code:  
+
+My solution of 7 kyu kata [ Highest and Lowest ](https://www.codewars.com/kata/highest-and-lowest)  at CodeWars
+
+    function highAndLow(numbers){
+        let array = numbers.split(' ').map(Number);
+        return new Array(Math.max(...array),Math.min(...array)).join(" ")7 kyu https://www.codewars.com/kata/highest-and-lowest
+    }
 
 ### Learning path: 
 
